@@ -7,7 +7,6 @@ import (
 	"net/http"
 	"strings"
 	"time"
-	"log"
 )
 
 // AccessRequestType is the type for OAuth param `grant_type`
